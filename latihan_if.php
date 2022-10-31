@@ -10,7 +10,7 @@
     <?php
     $nama = "Arif Noer Wahidin";
     $Nama = "Arif NoerWahidin";
-    echo "isi variable \$nama = $nama";
+    echo "isi variable \"\$nama = $nama";
     echo "<br>";
     echo "isi variable \$Nama = $Nama";
     ?>
